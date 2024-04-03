@@ -40,6 +40,10 @@ The objective of this project is to provide a fun and challenging experience for
 - Use the arrow keys to navigate through the maze.
 - Reach the end goal while avoiding obstacles to win the game.
 
+## Project Report
+Find detailed information about the project implementation, performance analysis, and outcomes in the [Project Report](https://github.com/Likithasowji-500k/MAZE-GAME-USING-HYBRID-DATA-STRUCTURES/blob/f58cc5296f32fab466533b03204d386bcd4da8df/TEAM12-DSA%20PROJECT.pdf)
+
+
 ## Acknowledgements
 Inspired by classic maze games and pathfinding algorithms.
 Built with Python and Pygame.
